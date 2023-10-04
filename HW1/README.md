@@ -2,9 +2,13 @@
 
 ## Оглавление
 [1. Описание дз](https://github.com/Meretrix6/mf_data_hw/tree/main/HW1/README.md/#Описание-дз)
+
 [2. Условия задачи](https://github.com/Meretrix6/mf_data_hw/tree/main/HW1/README.md/#Условия-задачи)
+
 [3. Способ решения](https://github.com/Meretrix6/mf_data_hw/tree/main/HW1/README.md/#Способ-решения)
+
 [4. Выводы](https://github.com/Meretrix6/mf_data_hw/tree/main/HW1/README.md/#Выводы)
+
 
 ### Описание дз
 Угадать загаданное компьютером число за минимальное количество попыток.
